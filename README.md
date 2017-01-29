@@ -1,1 +1,2 @@
-# JS-router
+提交:
+用pushState和replaceState实现前端路由，不过有个bug，刷新路由无效
